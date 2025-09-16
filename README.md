@@ -32,9 +32,10 @@ The project aims to:
 2. `district_province.xlsx` – Maps **District → Province**  
 
 ---
-##Visualization 
-!["Percentage of Students from different Province"](images/Piechart_Provincial_basis.png)
-!["Numbers according to gender basis"](images/Gender_Bargraph.png)
+## Visualization 
+
+!["Percentage of Students from different Province"](Images/Piechart_Provincial_basis.png)
+!["Numbers according to gender basis"](Images/Gender_Bargraph.png)
 
 💡 Insights
 
