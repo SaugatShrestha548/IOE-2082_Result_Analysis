@@ -32,6 +32,9 @@ The project aims to:
 2. `district_province.xlsx` – Maps **District → Province**  
 
 ---
+##Visualization 
+!["Percentage of Students from different Province"](images/Piechart_Provincial_basis.png)
+!["Numbers according to gender basis"](images/Gender_Bargraph.png)
 
 💡 Insights
 
@@ -39,3 +42,4 @@ The project aims to:
 2.📊 Bar chart shows gender distribution
 3.🏆 Most repeated district and average ranks per province
 4.Demonstrates data cleaning, merging, visualization, and analysis
+
