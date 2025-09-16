@@ -33,15 +33,9 @@ The project aims to:
 
 ---
 
-## 💻 Key Steps in Code
+💡 Insights
 
-### 1️⃣ Import Libraries & Read Data
-```python
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sb
-from scipy import stats
-
-result = pd.read_excel("ioeResult.xlsx")
-province = pd.read_excel("district_province.xlsx")
+1.🥧 Pie chart shows student distribution by province
+2.📊 Bar chart shows gender distribution
+3.🏆 Most repeated district and average ranks per province
+4.Demonstrates data cleaning, merging, visualization, and analysis
