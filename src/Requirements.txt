@@ -1,0 +1,7 @@
+## Technologies Used
+- **Python 3.x** - Programming language
+- **Pandas** - Data manipulation and analysis
+- **Seaborn** - Statistical data visualization
+- **Matplotlib** - Plotting library
+- **Jupyter Notebook** - Interactive development environment
+
