@@ -40,7 +40,11 @@ The project aims to:
 💡 Insights
 
 1.🥧 Pie chart shows student distribution by province
+
 2.📊 Bar chart shows gender distribution
+
 3.🏆 Most repeated district and average ranks per province
+
 4.Demonstrates data cleaning, merging, visualization, and analysis
+
 
